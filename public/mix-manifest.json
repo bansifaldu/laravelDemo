@@ -1,0 +1,20 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/my.css": "/css/my.css",
+    "/template_assets/css/main.css": "/template_assets/css/main.css",
+    "/template_assets/js/main.js": "/template_assets/js/main.js",
+    "/js/custom.js": "/js/custom.js",
+    "/template_assets/css/fonts/bootstrap-icons.woff": "/template_assets/css/fonts/bootstrap-icons.woff",
+    "/template_assets/css/fonts/bootstrap-icons.woff2": "/template_assets/css/fonts/bootstrap-icons.woff2",
+    "/template_assets/fonts/boxicons.woff2": "/template_assets/fonts/boxicons.woff2",
+    "/template_assets/css/remixicon.ttf": "/template_assets/css/remixicon.ttf",
+    "/template_assets/css/remixicon.woff": "/template_assets/css/remixicon.woff",
+    "/template_assets/css/remixicon.woff2": "/template_assets/css/remixicon.woff2",
+    "/template_assets/img/apple-touch-icon.png": "/template_assets/img/apple-touch-icon.png",
+    "/template_assets/img/favicon.png": "/template_assets/img/favicon.png",
+    "/template_assets/img/features-1.png": "/template_assets/img/features-1.png",
+    "/template_assets/img/features-2.png": "/template_assets/img/features-2.png",
+    "/template_assets/img/features-3.png": "/template_assets/img/features-3.png",
+    "/template_assets/img/features-4.png": "/template_assets/img/features-4.png"
+}

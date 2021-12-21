@@ -1,0 +1,13 @@
+ 
+.logoimg{
+    height:10px;
+}
+.brand-link{
+    height: 56px !important;
+}
+.error{
+color:red;
+}
+.select2-selection__choice{
+    color:black!important;
+}
